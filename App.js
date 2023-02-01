@@ -23,7 +23,7 @@ const App = () => {
     setIsShow,
   };
   
-  console.log("is", isShow)
+
   if (!fontsLoaded) {
     return null;
   }

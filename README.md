@@ -10,11 +10,4 @@
 <img src="https://i.ibb.co/zrhkV9L/Whats-App-Image-2025-01-08-at-11-04-05-2.jpg" alt="IMG-0098" border="0" width="200">
 <img src="https://i.ibb.co/xCS80Gk/Whats-App-Image-2025-01-08-at-11-04-05-1.jpg" alt="IMG-0099" border="0" width="200">
 
-
-
-
-
-
-
-
 </div>
